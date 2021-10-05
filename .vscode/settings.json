@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/nlubalo/.local/share/virtualenvs/ETL-v50s3FAg/bin/python",
+    "python.linting.enabled": true
+}
